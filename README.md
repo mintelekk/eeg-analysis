@@ -26,3 +26,6 @@ to process, visualize, and analyze EEG recordings.
 PhysioNet EEG Motor Movement/Imagery Dataset
 
 https://physionet.org/content/eegmmidb/1.0.0/
+
+## Tools
+https://github.com/mne-tools/mne-python
