@@ -29,4 +29,5 @@ https://physionet.org/content/eegmmidb/1.0.0/
 
 ## Tools
 MNE: Magnetoencephalography (MEG) and Electroencephalography (EEG) in Python
+
 https://github.com/mne-tools/mne-python
